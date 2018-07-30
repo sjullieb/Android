@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioTimer</string>
+    <string name="textVolume">Volume</string>
+    <string name="textTimer">Timer</string>
+</resources>
